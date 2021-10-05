@@ -9,7 +9,7 @@ Svg icons created by hand for fun.
         <td>
             patreon
             <br/>
-            <a href="/blob/main/svg/patreon.svg" target="_blank">
+            <a href="/svg/patreon.svg">
                 <img width="125" src="svg/patreon.svg" alt="patreon" />
             </a>
         </td>
