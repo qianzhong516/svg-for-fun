@@ -3,7 +3,6 @@
 Svg icons created by hand for fun.
 
 ## My work
----
 <table>
     <tr >
         <td>
